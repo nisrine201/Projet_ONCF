@@ -25,7 +25,7 @@ public class AddTripDialog extends JDialog {
         setupActions();
         pack();
         setLocationRelativeTo(owner);
-    }
+    }//comment
 
     private void initUI() {
         setLayout(new GridLayout(0, 2)); // 0 pour n'importe quel nombre de lignes, 2 colonnes
