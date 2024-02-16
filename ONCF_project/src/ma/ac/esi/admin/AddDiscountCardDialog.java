@@ -20,7 +20,7 @@ public class AddDiscountCardDialog extends JDialog {
         setupActions();
         pack();
         setLocationRelativeTo(owner);
-    }
+    }///comment
     
     private void initUI() {
         setLayout(new GridLayout(0, 2)); 
