@@ -18,4 +18,4 @@ GitHub (Collaboration)
 
 -Auteurs:
 Ce projet a été développé par Manal LAHYA , BAALI Fatima , SEMLAL Nisrine et Imane EZZINE des étudiantes de L'ECOLE DE SCIENCE DE L'INFORMATION [ESI]
-sous la supervision de Yasser El Madani El Alami 
+sous la supervision de prof  Yasser El Madani El Alami 
